@@ -23,7 +23,7 @@ body{
     padding:9px 25px;
     cursor: pointer;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
 }
 .card-design{
     border: 0;
@@ -42,7 +42,7 @@ body{
 }
 .shopping-cart img{
     height:25px;
-   background-color: navy;
+  
   
 }
 .address-item{
@@ -51,8 +51,10 @@ body{
 
 .placeholder{
     font-size: 20px;
-    color:navy
+    
 }
+
+
 footer{
     text-align: center;
 }
